@@ -293,6 +293,7 @@ def create_app() -> FastAPI:
         - Database connectivity
         - Cache availability
         - External service status
+        - this is advanced cli 
         
         Returns:
             200 OK if all services healthy
